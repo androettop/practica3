@@ -1,0 +1,163 @@
+body{
+  margin: 0px;
+  font-family: 'Roboto';
+  background: #42446e;
+}
+
+.degradado{
+    color:white;
+    background: linear-gradient(to right,#a257f2,#ff46ac);
+}
+.linea{
+  margin: 0px;
+  display: inline-block;
+  text-align: center;
+}
+header .titulo4 {
+  margin: 0px 0px 30px 0px;
+}
+.titulo1{
+  margin: 0px;
+  padding: 5px 0px;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight:lighter !important;
+}
+.titulo2{
+  margin: 0px;
+  padding: 5px 0px;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-weight:lighter !important;
+}
+.titulo3{
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight:lighter !important;
+}
+.titulo4{
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 16px;
+  font-weight:lighter !important;;
+}
+.textiz{
+  text-align: left !important;
+}
+.negrita{
+  font-weight: 500 !important;
+}
+.redondo{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  position: relative;
+  top:155px;
+  background: white;
+  padding: 15px;
+  width: 45px;
+  height: 45px;
+}
+.verde{
+  color: #00ff37;
+}
+.gris{
+  color:#959ac4;
+}
+.azul{
+  color:#19b4d7;
+}
+.rojo{
+  color: #fd62a6;
+}
+.colorp{
+  color: #ff46ac;
+}
+.articulos{
+  background: #4c4e76;
+  margin: 20px 0px;
+  padding: 25px 0px 25px 0px;
+  box-sizing: border-box;
+  border-radius: 25px;
+  box-shadow: 0px 40px 100px rgba(0,0,0,0.2);
+}
+.aUno{
+  width: 15%;
+  text-align: center;
+  vertical-align: middle;
+}
+.aDos{
+  width: 20%;
+  vertical-align: middle;
+}
+.aTres{
+  width: 30%;
+  text-align: center;
+  vertical-align: middle;
+}
+.aCuatro{
+  width: 30%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+header.degradado{
+  margin: 7px;
+  padding: 60px 0px;
+  box-shadow: 0 20px 0 -8px #6f3f7988,0 40px 0 -16px #503e6688, 0px 40px 80px rgba(0,0,0,0.3);
+  border-radius: 25px;
+}
+header.degradado section#menu{
+  width: 25%;
+  text-align: center;
+  vertical-align:top;
+}
+header.degradado section#texto{
+  width: 50%;
+  text-align: center;
+  vertical-align:top;
+}
+header.degradado section#imagen{
+  width: 25%;
+  text-align: center;
+  vertical-align:top;
+}
+
+section#cuerpo{
+  margin: 25px;
+}
+section#cuerpo div#uno{
+  margin: 0px;
+  padding:50px;
+  box-sizing: border-box;
+  width: 65%;
+  text-align: center;
+  vertical-align: middle;
+}
+section#cuerpo div#dos{
+  margin: 0px;
+  padding:50px;
+  box-sizing: border-box;
+  width: 35%;
+  text-align: center;
+  vertical-align: middle;
+}
+.aUno img{
+  width: 65;
+  height: 65px;
+}
+footer h3 {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  background: #42446e;
+  box-shadow: 0px 0px 80px 100px #42446e ;
+}
