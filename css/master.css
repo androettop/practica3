@@ -110,10 +110,10 @@ header .titulo4 {
 }
 
 header.degradado{
-  margin: 7px;
+  margin: 0px;
   padding: 60px 0px;
   box-shadow: 0 20px 0 -8px #6f3f7988,0 40px 0 -16px #503e6688, 0px 40px 80px rgba(0,0,0,0.3);
-  border-radius: 25px;
+  border-radius: 0px 0px 25px 25px;
 }
 header.degradado section#menu{
   width: 25%;
@@ -132,7 +132,7 @@ header.degradado section#imagen{
 }
 
 section#cuerpo{
-  margin: 25px;
+  margin: 15px;
 }
 section#cuerpo div#uno{
   margin: 0px;
